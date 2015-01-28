@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/ath_rate/sample/ath_rate_sample.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /root/Distributed/madwifi/ath_rate/sample/ath_rate_sample.ko /root/Distributed/madwifi/ath_rate/sample/ath_rate_sample.o /root/Distributed/madwifi/ath_rate/sample/ath_rate_sample.mod.o

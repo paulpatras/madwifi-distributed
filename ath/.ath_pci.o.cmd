@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/ath/ath_pci.o := ld -m elf_i386 -m elf_i386     -r -o /root/Distributed/madwifi/ath/ath_pci.o /root/Distributed/madwifi/ath/if_ath.o /root/Distributed/madwifi/ath/if_ath_radar.o /root/Distributed/madwifi/ath/if_ath_hal_extensions.o /root/Distributed/madwifi/ath/if_ath_pci.o

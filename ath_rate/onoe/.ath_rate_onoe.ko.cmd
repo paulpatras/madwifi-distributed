@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/ath_rate/onoe/ath_rate_onoe.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /root/Distributed/madwifi/ath_rate/onoe/ath_rate_onoe.ko /root/Distributed/madwifi/ath_rate/onoe/ath_rate_onoe.o /root/Distributed/madwifi/ath_rate/onoe/ath_rate_onoe.mod.o

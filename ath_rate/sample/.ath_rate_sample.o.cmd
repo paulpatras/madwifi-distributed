@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/ath_rate/sample/ath_rate_sample.o := ld -m elf_i386 -m elf_i386      -r -o /root/Distributed/madwifi/ath_rate/sample/ath_rate_sample.o /root/Distributed/madwifi/ath_rate/sample/sample.o

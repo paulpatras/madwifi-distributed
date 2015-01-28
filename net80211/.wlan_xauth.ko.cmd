@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/net80211/wlan_xauth.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /root/Distributed/madwifi/net80211/wlan_xauth.ko /root/Distributed/madwifi/net80211/wlan_xauth.o /root/Distributed/madwifi/net80211/wlan_xauth.mod.o

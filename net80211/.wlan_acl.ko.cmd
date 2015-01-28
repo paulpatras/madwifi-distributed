@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/net80211/wlan_acl.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /root/Distributed/madwifi/net80211/wlan_acl.ko /root/Distributed/madwifi/net80211/wlan_acl.o /root/Distributed/madwifi/net80211/wlan_acl.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/ath_rate/minstrel/ath_rate_minstrel.o := ld -m elf_i386 -m elf_i386      -r -o /root/Distributed/madwifi/ath_rate/minstrel/ath_rate_minstrel.o /root/Distributed/madwifi/ath_rate/minstrel/minstrel.o

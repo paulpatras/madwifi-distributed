@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/net80211/wlan_tkip.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /root/Distributed/madwifi/net80211/wlan_tkip.ko /root/Distributed/madwifi/net80211/wlan_tkip.o /root/Distributed/madwifi/net80211/wlan_tkip.mod.o

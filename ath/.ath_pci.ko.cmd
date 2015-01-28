@@ -1,0 +1,1 @@
+cmd_/root/Distributed/madwifi/ath/ath_pci.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /root/Distributed/madwifi/ath/ath_pci.ko /root/Distributed/madwifi/ath/ath_pci.o /root/Distributed/madwifi/ath/ath_pci.mod.o
